@@ -10,7 +10,7 @@
  🇨🇦 🇧🇷
  
 ✈️ A procura de novas experiẽncias
- 
+
  📚 Amante de livros de *suspense, mistério, investigação*
  
  
@@ -19,6 +19,11 @@
 )
 <!--
 
+para gif:
+![]() - link dentro dos parenteses
+
+para tag:
+![]()
 - {}()
 - 📌:+1:Aprimorando meu inglês:
 - 🌱 I’m currently learning ...
