@@ -14,7 +14,8 @@
  📚 Amante de livros de *suspense, mistério, investigação*
  
  
-- {}(![image](https://github.com/nandalter/nandalter/assets/137302769/f496ad3a-32cd-46cf-89f0-197e3fef7fe8)
+- {}(![image](https://github.com/nandalter/nandalter/assets/137302769/a4495618-de82-44c6-90bd-095b6b287a7e)
+
 )
 <!--
 
