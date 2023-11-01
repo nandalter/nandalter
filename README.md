@@ -15,7 +15,10 @@
  
  
 - {}(![image](https://github.com/nandalter/nandalter/assets/137302769/a4495618-de82-44c6-90bd-095b6b287a7e)
-
+- ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+  ![](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
+  ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 )
 <!--
 
